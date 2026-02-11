@@ -40,6 +40,27 @@ Measured on a base model M4 Mac mini with macOS 26.2
 - Ram Usage: 24.9 MiB
 - Startup time: ~0.86s with profiling instrumentation
 
+# Linux
+
+![Screenshot](./screenshots/HelloWorld_Linux_Light.png)
+![Screenshot](./screenshots/HelloWorld_Linux_Dark.png)
+
+## Accessibility
+
+- Keyboard navigation: Works
+- Unicode support: Works
+- Screen reader support: Untested
+- Touch compatibility: Untested
+- Gamepad compatibility: None
+
+## Resource Usage / Start-up Time
+
+Measured on Bazzite running on a AMD Ryzen 7 5800X3D
+
+- Size of executable: 361.8KiB
+- Ram Usage: 21.7 MiB
+- Startup time: Unmeasured
+
 # Development Experience
 
 This project was created with the QT creator and written in C++. It features a graphical designer with simple
