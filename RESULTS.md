@@ -15,9 +15,9 @@
 
 Measured on an ASUS TUF Gaming F15 FX506HM with Windows 11.
 
-- Size of executable:
-- Ram Usage:
-- Startup time: (Measured with https://github.com/Trinity2019/WinWordStartupTime/)
+- Size of executable: 36,1MiB (110KiB without dynamically linked dependencies)
+- Ram Usage: 3.8MiB (jumps to 21,8MiB when entering emojis)
+- Startup time: 94ms (Measured with https://github.com/Trinity2019/WinWordStartupTime/)
 
 # macOS
 
@@ -36,7 +36,7 @@ Measured on an ASUS TUF Gaming F15 FX506HM with Windows 11.
 
 Measured on a base model M4 Mac mini with macOS 26.2
 
-- Size of executable: 47.44MiB (without dynamically linked dependencies: 77.36KiB)
+- Size of executable: 47.44MiB (77.36KiB without dynamically linked dependencies)
 - Ram Usage: 24.9 MiB
 - Startup time: ~0.86s with profiling instrumentation
 
